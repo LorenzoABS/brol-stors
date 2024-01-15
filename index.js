@@ -5,19 +5,19 @@ const characters = [
 },
 {
     name: 'larry & lawrie',
-    characterImage: 'image/larry & lawrie.png'
+    characterImage: 'image/larry & lawrie.jpg'
 },
 {
     name: 'el primo',
-    characterImage: 'image/el primo.png'
+    characterImage: 'image/el primo.jpg'
 },
 {
     name: 'nita',
-    characterImage: 'image/nita.png'
+    characterImage: 'image/nita.jpg'
 },
 {
     name: 'jessie',
-    characterImage: 'image/jessie.png'
+    characterImage: 'image/jessie.jpg'
 },
 {
     name: 'poco',
@@ -25,27 +25,27 @@ const characters = [
 },
 {
     name: 'jacky',
-    characterImage: 'image/jacky.png'
+    characterImage: 'image/jacky.jpg'
 },
 {
     name: 'colt',
-    characterImage: 'image/colt.png'
+    characterImage: 'image/colt.jpg'
 },
 {
     name: 'brock',
-    characterImage: 'image/brock.png'
+    characterImage: 'image/brock.jpg'
 },
 {
     name: 'surge',
-    characterImage: 'image/surge.png'
+    characterImage: 'image/surge.jpg'
 },
 {
     name: 'barley',
-    characterImage: 'image/barley.png'
+    characterImage: 'image/barley.jpg'
 },
 {
     name: 'bull',
-    characterImage: 'image/bull.png'
+    characterImage: 'image/bull.jpg'
 },
 {
     name: 'emz',
@@ -53,35 +53,35 @@ const characters = [
 },
 {
     name: 'dynamike',
-    characterImage: 'image/dynamike.png'
+    characterImage: 'image/dynamike.jpg'
 },
 {
     name: 'fang',
-    characterImage: './images/fang.jpg'
+    characterImage: 'image/fang.jpg'
 },
 {
     name: 'rosa',
-    characterImage: 'image/rosa.png'
+    characterImage: 'image/rosa.jpg'
 },
 {
     name: 'lou',
-    characterImage: 'image/lou.png'
+    characterImage: 'image/lou.jpg'
 },
 {
     name: 'bo',
-    characterImage: 'image/bo.png'
+    characterImage: 'image/bo.jpg'
 },
 {
     name: 'darryl',
-    characterImage: 'image/darryl.png'
+    characterImage: 'image/darryl.jpg'
 },
 {
     name: '8-bit',
-    characterImage: 'image/8-bit.png'
+    characterImage: 'image/8-bit.jpg'
 },
 {
     name: 'frank',
-    characterImage: 'image/frank.png'
+    characterImage: 'image/frank.jpg'
 },
 {
     name: 'bea',
@@ -89,63 +89,63 @@ const characters = [
 },
 {
     name: 'ruffs',
-    characterImage: 'image/ruffs.png'
+    characterImage: 'image/ruffs.jpg'
 },
 {
     name: 'penny',
-    characterImage: 'image/penny.png'
+    characterImage: 'image/penny.jpg'
 },
 {
     name: 'buzz',
-    characterImage: 'image/buzz.png'
+    characterImage: 'image/buzz.jpg'
 },
 {
     name: 'carl',
-    characterImage: 'image/carl.png'
+    characterImage: 'image/carl.jpg'
 },
 {
     name: 'tick',
-    characterImage: 'image/tick.png'
+    characterImage: 'image/tick.jpg'
 },
 {
     name: 'eve',
-    characterImage: 'image/eve.png'
+    characterImage: 'image/eve.jpg'
 },
 {
     name: 'stu',
-    characterImage: 'image/stu.png'
+    characterImage: 'image/stu.jpg'
 },
 {
     name: 'pam',
-    characterImage: 'image/pam.png'
+    characterImage: 'image/pam.jpg'
 },
 {
     name: 'mortis',
-    characterImage: 'image/mortis.png'
+    characterImage: 'image/mortis.jpg'
 },
 {
     name: 'gene',
-    characterImage: 'image/gene.png'
+    characterImage: 'image/gene.jpg'
 },
 {
     name: 'sprout',
-    characterImage: 'image/sprout.png'
+    characterImage: 'image/sprout.jpg'
 },
 {
     name: 'gray',
-    characterImage: 'image/gray.png'
+    characterImage: 'image/gray.jpg'
 },
 {
     name: 'edgar',
-    characterImage: 'image/edgar.png'
+    characterImage: 'image/edgar.jpg'
 },
 {
     name: 'rico',
-    characterImage: 'image/rico.png'
+    characterImage: 'image/rico.jpg'
 },
 {
     name: 'grom',
-    characterImage: 'image/grom.png'
+    characterImage: 'image/grom.jpg'
 },
 {
     name: 'mr.p',
@@ -153,47 +153,47 @@ const characters = [
 },
 {
     name: 'griff',
-    characterImage: 'image/griff.png'
+    characterImage: 'image/griff.jpg'
 },
 {
     name: 'otis',
-    characterImage: 'image/otis.png'
+    characterImage: 'image/otis.jpg'
 },
 {
     name: 'tara',
-    characterImage: 'image/tara.png'
+    characterImage: 'image/tara.jpg'
 },
 {
     name: 'janet',
-    characterImage: 'image/janet.png'
+    characterImage: 'image/janet.jpg'
 },
 {
     name: 'gus',
-    characterImage: 'image/gus.png'
+    characterImage: 'image/gus.jpg'
 },
 {
     name: 'byron',
-    characterImage: 'image/byron.png'
+    characterImage: 'image/byron.jpg'
 },
 {
     name: 'bonnie',
-    characterImage: 'image/bonnie.png'
+    characterImage: 'image/bonnie.jpg'
 },
 {
     name: 'max',
-    characterImage: 'image/max.png'
+    characterImage: 'image/max.jpg'
 },
 {
     name: 'cordelius',
-    characterImage: 'image/cordelius.png'
+    characterImage: 'image/cordelius.jpg'
 },
 {
     name: 'squak',
-    characterImage: 'image/squak.png'
+    characterImage: 'image/squak.jpg'
 },
 {
     name: 'bibi',
-    characterImage: 'image/bibi.png'
+    characterImage: 'image/bibi.jpg'
 },
 {
     name: 'piper',
@@ -201,113 +201,115 @@ const characters = [
 },
 {
     name: 'nani',
-    characterImage: 'image/nani.png'
+    characterImage: 'image/nani.jpg'
 },
 {
     name: 'gale',
-    characterImage: 'image/gale.png'
+    characterImage: 'image/gale.jpg'
 },
 {
     name: 'buster',
-    characterImage: 'image/buster.png'
+    characterImage: 'image/buster.jpg'
 },
 {
     name: 'R-T',
-    characterImage: 'image/R-T.png'
+    characterImage: 'image/R-T.jpg'
 },
 {
     name: 'sandy',
-    characterImage: 'image/sandy.png'
+    characterImage: 'image/sandy.jpg'
 },
 {
     name: 'hank',
-    characterImage: 'image/hank.png'
+    characterImage: 'image/hank.jpg'
 },
 {
     name: 'amber',
-    characterImage: 'image/amber.png'
+    characterImage: 'image/amber.jpg'
 },
 {
     name: 'chester',
-    characterImage: 'image/chester.png'
+    characterImage: 'image/chester.jpg'
 },
 {
     name: 'crow',
-    characterImage: 'image/crow.png'
+    characterImage: 'image/crow.jpg'
 },
 {
     name: 'collette',
-    characterImage: 'image/collette.png'
+    characterImage: 'image/collette.jpg'
 },
 {
     name: 'meg',
-    characterImage: 'image/meg.png'
+    characterImage: 'image/meg.jpg'
 },
 {
     name: 'leon',
-    characterImage: 'image/leon.png'
+    characterImage: 'image/leon.jpg'
 },
 {
     name: 'belle',
-    characterImage: 'image/belle.png'
+    characterImage: 'image/belle.jpg'
 },
 {
     name: 'wilow',
-    characterImage: 'image/wilow.png'
+    characterImage: 'image/wilow.jpg'
 },
 {
     name: 'spike',
-    characterImage: 'image/shelly.png'
+    characterImage: 'image/spike.jpg'
 },
 {
     name: 'ash',
-    characterImage: 'image/shelly.png'
+    characterImage: 'image/ash.jpg'
 },
 {
     name: 'lola',
-    characterImage: 'image/shelly.png'
+    characterImage: 'image/lola.png'
 },
 {
     name: 'doug',
-    characterImage: 'image/shelly.png'
+    characterImage: 'image/doug.jpg'
 },
 {
     name: 'sam',
-    characterImage: 'image/shelly.png'
+    characterImage: 'image/sam.jpg'
 },
 {
     name: 'chuck',
-    characterImage: 'image/shelly.png'
+    characterImage: 'image/chuck.jpg'
 },
 {
     name: 'mandy',
-    characterImage: 'image/shelly.png'
+    characterImage: 'image/mandy.jpg'
 },
 {
     name: 'maisie',
-    characterImage: 'image/shelly.png'
+    characterImage: 'image/maise.jpg'
 },
 {
     name: 'charlie',
-    characterImage: 'image/shelly.png'
+    characterImage: 'image/charlie.jpg'
 },
 {
     name: 'pearl',
-    characterImage: 'image/shelly.png'
+    characterImage: 'image/pearl.jpg'
 },
 {
     name: 'mico',
-    characterImage: 'image/shelly.png'
+    characterImage: 'image/mico.jpg'
 },
 {
     name: 'kit',
-    characterImage: 'image/shelly.png'
+    characterImage: 'image/kit.jpg'
 },
+
 
 
 
 
 ]
+
 
 const h4 = document.querySelector('h4')
 const img = document.querySelector('img')
